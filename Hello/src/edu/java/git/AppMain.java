@@ -6,7 +6,7 @@ public class AppMain {
 		System.out.println("Hello, Git!?World?!?");
 		System.out.println("안녕하세요~~"); 
         System.out.println("modified this file...");
-        System.out.println("bug fix"); 
+        System.out.println("bug fix");  
        
          
 	}
